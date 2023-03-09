@@ -1,0 +1,36 @@
+
+body{
+    background-image: url(https://initiate.alphacoders.com/images/758/cropped-1440-900-758980.jpg?4501);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.adicional{
+    text-align: center;
+    color: white
+}
+.principal{
+    margin: auto;
+    height: 850px;
+    width: 600px;
+    border: solid 1px;
+    background-color: rgba(0, 0, 255, 0.753);
+    padding: 50px 30px;
+    color: white;
+}
+.pri{
+    width: 100%;
+    display: block;
+}
+select{
+    display: block;
+    width: 100%;
+}
+.sed{
+    display: block;
+    width: 100%;
+}
+.bot{
+    height: 5%;
+    width: 100%;
+    background: rgb(50, 224, 50);
+}
